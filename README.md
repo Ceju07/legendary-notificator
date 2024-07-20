@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/wasz-nickname/nazwa-waszego-repozytorium/main/
+https://raw.githubusercontent.com/Ceju07/legebdary-notificator/main/
