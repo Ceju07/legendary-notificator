@@ -1,1 +1,1 @@
-https://raw.githubusercontent.com/Ceju07/legebdary-notificator/main/
+https://github.com/Ceju07/legendary-notificator/main/README.md
